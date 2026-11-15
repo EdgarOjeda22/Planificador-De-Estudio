@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Planificador de estudio</string>
+
+    <!-- Pantalla de ingreso -->
+    <string name="desc_logo">Logo de la aplicación</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_ir_registro">¿No tienes cuenta? Regístrate</string>
+
+    <!-- Pantalla de registro -->
+    <string name="titulo_registro">Crear Cuenta</string>
+    <string name="subtitulo_registro">Organiza tus horarios de estudio</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_carrera">Carrera</string>
+    <string name="hint_correo_registro">Correo</string>
+    <string name="hint_password_registro">Contraseña</string>
+    <string name="hint_confirmar_password">Confirmar Contraseña</string>
+    <string name="pregunta_modalidad">¿Modalidad de estudio?</string>
+    <string name="opcion_diurna">Diurna</string>
+    <string name="opcion_vespertina">Vespertina</string>
+    <string name="chk_terminos">Acepto los términos y condiciones</string>
+    <string name="btn_registrar">Registrarme</string>
+    <string name="txt_volver_login">¿Ya tienes cuenta? Ingresa</string>
+
+    <!-- Pantalla de lista -->
+    <string name="titulo_lista">Mis Sesiones de Estudio</string>
+    <string name="desc_agregar">Agregar sesión de estudio</string>
+    <string name="desc_ia">Asistente de estudio con IA</string>
+    <string name="desc_icono_tarea">Ícono de la tarea</string>
+    <string name="tarea1_titulo">Repasar Modelamiento IoT</string>
+    <string name="tarea1_fecha">Hoy 19:00</string>
+    <string name="tarea2_titulo">Guía Base de Datos</string>
+    <string name="tarea2_fecha">Mañana 10:00</string>
+    <string name="tarea3_titulo">Lectura Inglés Técnico</string>
+    <string name="tarea3_fecha">Jueves 18:30</string>
+</resources>
