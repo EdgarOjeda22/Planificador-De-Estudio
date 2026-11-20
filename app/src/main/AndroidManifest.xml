@@ -20,6 +20,18 @@
             android:exported="false" />
 
         <activity
+            android:name=".AgregarActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".DetalleActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".IaActivity"
+            android:exported="false" />
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

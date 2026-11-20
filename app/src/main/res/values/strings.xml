@@ -34,4 +34,34 @@
     <string name="tarea2_fecha">Mañana 10:00</string>
     <string name="tarea3_titulo">Lectura Inglés Técnico</string>
     <string name="tarea3_fecha">Jueves 18:30</string>
+
+    <!-- Pantalla de agregar -->
+    <string name="titulo_agregar">Nueva Sesión de Estudio</string>
+    <string name="hint_titulo_sesion">Título de la sesión</string>
+    <string name="hint_materia">Materia o ramo</string>
+    <string name="hint_fecha">Fecha (dd/mm/aaaa)</string>
+    <string name="hint_hora">Hora (hh:mm)</string>
+    <string name="hint_notas">Notas (opcional)</string>
+    <string name="btn_guardar_sesion">Guardar sesión</string>
+
+    <!-- Pantalla de detalle -->
+    <string name="titulo_detalle">Detalle de la Sesión</string>
+    <string name="desc_icono_detalle">Ícono de la materia</string>
+    <string name="detalle_titulo_ejemplo">Repasar Modelamiento IoT</string>
+    <string name="detalle_materia_ejemplo">Aplicaciones Móviles para IoT</string>
+    <string name="detalle_fecha_ejemplo">Hoy, 19:00 hrs</string>
+    <string name="detalle_notas_ejemplo">Revisar layouts y repasar estándar Material 3 antes de la clase.</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_marcar_completada">Marcar como completada</string>
+
+    <!-- Pantalla de IA -->
+    <string name="titulo_ia">Asistente de Estudio IA</string>
+    <string name="hint_pregunta_ia">Escribe tu pregunta o pega el tema a estudiar</string>
+    <string name="pregunta_tipo_ayuda">¿Qué necesitas?</string>
+    <string name="opcion_resumen">Resumen</string>
+    <string name="opcion_quiz">Quiz de práctica</string>
+    <string name="btn_preguntar_ia">Preguntar a la IA</string>
+    <string name="label_respuesta_ia">Respuesta</string>
+    <string name="respuesta_ia_ejemplo">Ejemplo: Un dispositivo IoT es cualquier objeto físico conectado a internet que puede enviar o recibir datos, como un sensor o un smartwatch.</string>
 </resources>
